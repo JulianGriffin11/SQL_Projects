@@ -10,8 +10,8 @@ This space showcases my personal **SQL-based database management** skills. Use t
 
 ## 🗂️ Projects  
 
-### 1. [**💼 Project 1 - Employee Database Management 💼**](./Project%201%20-%20Employee%20Database%20Management)
-- **Summary**: A project focused on creating and managing an employee database system. It includes advanced querying features, such as filtering and joining tables to analyze employee data.  
+### 1. [**💼 Project 1 - Job Jury 💼**](./Project%201%20-%20Job%20Jury)
+- **Summary**: A project that queries the data analytics job market to find the highest paying roles within the field. It includes advanced querying features, such as filtering and joining tables to analyze salary data.  
 - **Skills Learned**: 
   - Creating complex SQL queries
   - **JOIN** operations and subqueries
@@ -20,21 +20,6 @@ This space showcases my personal **SQL-based database management** skills. Use t
 <br>
 
 <img src="./Media/ED1.gif" alt="Visual of Employee Database Query" width="75%" />
-
-
----
-
-### 2. [**📊 Project 2 - Sales Data Analysis 📊**](./Project%202%20-%20Sales%20Data%20Analysis)
- 
-- **Summary**: A comprehensive sales analysis project that tracks monthly sales data and generates reports with key insights. Includes pivot-like tables using SQL and dynamic calculations.  
-- **Skills Learned**: 
-  - Data aggregation and analysis with **SUM**, **AVG**, and **COUNT**
-  - Using **CASE** statements for conditional logic
-  - Advanced filtering and sorting techniques, and more!
-    
-<br>
-
-<img src="./Media/SD1.gif" alt="Visual of Sales Analysis Report" width="75%" />
 
 
 ---
