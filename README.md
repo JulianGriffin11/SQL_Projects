@@ -2,7 +2,7 @@
 
 Welcome to my **SQL_Projects** repository! 🌟  
 
-This space showcases my  **SQL-based database management** skills through personal projects. Use the **links below** to explore each project!  
+This space showcases my personal **SQL-based database management** skills. Use the **links below** to explore each project!  
 
 <img src="./Media/sql_banner.jpeg" alt="SQL Projects Banner" width="600"/>
 
