@@ -21,7 +21,6 @@ This space showcases my personal **SQL-based database management** skills. Use t
 
 <img src="./Media/ED1.gif" alt="Visual of Employee Database Query" width="75%" />
 
-
 ---
 
 ✨ Click the heading links to dive deeper into each project! 🚀  
