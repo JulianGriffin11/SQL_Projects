@@ -25,5 +25,9 @@ This space showcases my personal **SQL-based data analysis** skills. Use the **l
 
 ✨ Click the heading links to dive deeper into each project! 🚀  
 
+- Check out some of my other work:  
+  - [📊 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)  
+  - [📘 R Projects](https://github.com/JulianGriffin11/R_Projects)  
+
 Sincerely,  
 Julian Griffin 
