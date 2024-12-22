@@ -4,7 +4,7 @@
 
 ## Introduction  
 
-This project explores job salary data, using SQL queries to analyze how factors like **location**, **role**, and **senority** influence earnings. The aim is to uncover trends, identify disparities, and provide actionable insights into salary dynamics across various job markets. 
+This project explores job salary data, using SQL queries to analyze how factors like **location**, **role**, and **skills** influence earnings. The aim is to uncover trends, identify disparities, and provide actionable insights into salary dynamics across the data job market. 
 
 ---
 
@@ -26,7 +26,7 @@ This project explores job salary data, using SQL queries to analyze how factors 
 ---
 
 
-### ⚙️ **Information**:  
+### ✅ **Information**:  
 - This project is **actively under development**, and more insights, visualizations, and features will be added soon. Stay tuned for updates!
 - Click to see some of my other work at [NewExcel_Projects](https://github.com/JulianGriffin11/NewExcel_Projects) and [R_Projects](https://github.com/JulianGriffin11/R_Projects)
 
