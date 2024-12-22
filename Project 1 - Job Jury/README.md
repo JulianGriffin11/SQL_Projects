@@ -27,7 +27,7 @@ This project explores job salary data, using **SQL queries** to analyze how fact
 ### ✅ **Information:**  
 - This project is **actively under development**, and more insights, visualizations, and features will be added soon.  
 - 🔗 Check out some of my other work:  
-  - [📊 Excel Projects](https://github.com/JulianGriffin11/NewExcel_Projects)  
+  - [📊 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)  
   - [📘 R Projects](https://github.com/JulianGriffin11/R_Projects)  
 - **Stay tuned for updates!**  
 
