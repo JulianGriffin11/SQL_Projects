@@ -1,6 +1,6 @@
 # 💼 **Job Jury** 💼
 
-<img src="../Media/JobJury_Soon.jpg" alt="Visual of Job Salary Analysis" width="35%" />
+<img src="../Media/JJ_Soon.jpg" alt="Visual of Job Salary Analysis" width="35%" />
 
 ## Introduction  
 
@@ -25,7 +25,16 @@ This project explores job salary data, using SQL queries to analyze how factors 
 
 ---
 
-This project is **actively under development**, and more insights, visualizations, and features will be added soon. Stay tuned for updates!  
+
+### ⚙️ **Information**:  
+- This project is **actively under development**, and more insights, visualizations, and features will be added soon. Stay tuned for updates!
+- Click to see some of my other work at [NewExcel_Projects](https://github.com/JulianGriffin11/NewExcel_Projects) and [R_Projects](https://github.com/JulianGriffin11/R_Projects)
+
+
+
+
+---
+
 
 Feel free to check back when it’s complete!  
 
