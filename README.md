@@ -10,7 +10,7 @@ This space showcases my personal **SQL-based database management** skills. Use t
 
 ## 🗂️ Projects  
 
-### 1. [**💼 Project 1 - Job Jury: In Progress! 💼**](./Project%201%20-%20Job%20Jury)
+### 1. [**💼 Project 1 - Job Jury: In Progress! 💼**](./Project%201%20-%20Job%20Jury/)
 - **Summary**: This project queries a job market data set to find the highest paying roles within the field. It includes advanced querying features, such as filtering and joining tables to analyze hourly and yearly salary data.
 - **Skills Learned**: 
   - Creating complex SQL queries
