@@ -9,18 +9,18 @@ This project explores job salary data, using **SQL queries** to analyze how fact
 ---  
 
 ### 🔍 **What’s Included:**  
-- **💰 Query 1**: What are the top paying jobs?  
-- **💼 Query 2**: What are the related job skills?  
-- **📈 Query 3**: What are the most in-demand skills?  
-- **🎯 Query 4**: What are the most optimal skills?  
-- **🌍 Query 5**: What country has the highest average salaries?  
+- **💰 Query 1**: What are the top paying jobs for my role?  
+- **💼 Query 2**: What are the skills required for these roles?  
+- **📈 Query 3**: What are the most in-demand skills for my role?  
+- **🎯 Query 4**: What are the highest paying skills for my role?  
+- **🌍 Query 5**: What are the most in-deman and highest paying skills to learn?  
 
 ---  
 
 ### ⚙️ **Related Skills:**  
 - 🖋️ **SQL Query Writing**  
-- 📊 **Data Analysis**  
-- 🗄️ **Database Management**  
+- 📊 **Data Analysis and Manipulation**  
+- 🗄️ **PostgreSQL Database**
 
 ---  
 
