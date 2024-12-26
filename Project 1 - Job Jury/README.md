@@ -13,7 +13,7 @@ This project explores job salary data, using **SQL queries** to analyze how fact
 - **💼 Query 2**: What are the skills required for these roles?  
 - **📈 Query 3**: What are the most in-demand skills for my role?  
 - **🎯 Query 4**: What are the highest paying skills for my role?  
-- **🌍 Query 5**: What are the most in-deman and highest paying skills to learn?  
+- **🌍 Query 5**: What are the most in-demand **AND** highest paying skills to learn?  
 
 ---  
 
