@@ -1,2 +1,2 @@
-# Ignore CSV files for tracking
-*.csv
+# Ignore csv_files folder as it's contents are too large for pushing
+csv_files/
