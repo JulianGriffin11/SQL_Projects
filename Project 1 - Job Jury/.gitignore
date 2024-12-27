@@ -1,2 +1,6 @@
 # Ignore csv_files folder as it's contents are too large for pushing
-csv_files/
+/csv_files
+
+# Ignore other files
+/.DS_Store
+/.vscode
