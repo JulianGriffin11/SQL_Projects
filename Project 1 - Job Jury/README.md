@@ -9,33 +9,53 @@ This project explores job salary data, using **SQL queries** to analyze how fact
 ---  
 
 ### 🔍 **What’s Included:**  
-- **💰 Query 1**: What are the top paying jobs for my role?  
-- **💼 Query 2**: What are the skills required for these roles?  
-- **📈 Query 3**: What are the most in-demand skills for my role?  
-- **🎯 Query 4**: What are the highest paying skills for my role?  
+- **💰 Query 1**: What are the top paying jobs for Data Analytics?  
+- **💼 Query 2**: What are the skills required for Data Analytics?  
+- **📈 Query 3**: What are the most in-demand skills for Data Analytics?  
+- **🎯 Query 4**: What are the highest paying skills for Data Analytics?  
 - **🌍 Query 5**: What are the most in-demand **AND** highest paying skills to learn?  
+
+---  
+
+### 📊 **Insights**
+
+1. **Top Paying Data Analyst Jobs**: Identifies the highest paying job roles within Data Analytics, highlighting where you can expect to earn the most.  
+2. **Skills for Top-Paying Jobs**: Explores the key skills required for Data Analytics roles, giving you a clear picture of what employers are looking for.  
+3. **Most In-Demand SKills**: Focuses on the most in-demand skills for Data Analysts, showing the skills that are currently trending in the job market.  
+4. **Skills with Higher Salaries**: Analyzes which skills are both high-paying and highly sought-after, allowing you to prioritize skills that can boost your salary.  
+5. **Optimal SKills for Job Market Value**: Combines demand and salary data to reveal the most optimal skills to learn for career growth and financial gain in Data Analytics.  
+
 
 ---  
 
 ### ⚙️ **Related Skills:**  
 - 🖋️ **SQL Query Writing**  
-- 📊 **Data Analysis and Manipulation**  
 - 🗄️ **PostgreSQL Database**
+- 🔍 **Data Visualization**  
+- 📈 **Statistical Analysis**
+- 📊 **Data Analysis and Manipulation**  
+ 
 
----  
 
-### ✅ **Information:**  
-- This project is **actively under development**, and more insights, visualizations, and features will be added soon.  
-- 🔗 Check out some of my other work:  
-  - [📊 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)  
-  - [📘 R Projects](https://github.com/JulianGriffin11/R_Projects)  
-- **Stay tuned for updates!**  
+---
 
----  
+## Conclusion  
 
-Feel free to check back when it’s complete! 🚀  
+In today’s data-driven world, mastering SQL, Excel, and Python is not just a choice—it’s a strategic move to boost your career. These skills are in high demand across industries, with SQL driving data manipulation and queries, Excel enabling powerful data analysis and reporting, and Python offering flexibility in automation and advanced analytics. Together, they form a powerful toolkit that will not only elevate your technical proficiency but also open doors to higher-paying roles and better career opportunities. By honing these skills, you're positioning yourself to meet the growing demand for data expertise and maximize your earning potential.
 
+---
+
+### 📂 Access the Project  
+
+Click [here](./project_sql) to explore the **Job Jury** files in more detail.
+
+---
+
+- Check out some of my other work:  
+  - [📊 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
+  - [📘 R Projects](https://github.com/JulianGriffin11/R_Projects)
 
 Talk soon,  
 **Julian Griffin**
+
 
