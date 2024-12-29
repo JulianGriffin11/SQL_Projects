@@ -28,14 +28,11 @@ As I navigate the competitive field of Data Analytics, I’m focused on finding 
 
 ---  
 
-### ⚙️ **Related Skills:**  
-- 🖋️ **SQL Query Writing**  
+### ⚙️ **Tools and Skills:**   
 - 🗄️ **PostgreSQL Database**
-- 🔍 **Data Visualization**  
-- 📈 **Statistical Analysis**
+- 🖋️ **SQL Query Writing** 
+- 🔍 **Visual Studio Code**  
 - 📊 **Data Analysis and Manipulation**  
- 
-
 
 ---
 
