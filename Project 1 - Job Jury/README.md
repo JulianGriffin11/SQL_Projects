@@ -4,7 +4,7 @@
 
 ## ✨ **Introduction**  
 
-This project explores job salary data, using **SQL queries** to analyze how factors like **location**, **role**, and **skills** influence earnings. The aim is to uncover **trends**, identify **disparities**, and provide actionable insights into salary dynamics across the data job market.  
+As I navigate the competitive field of Data Analytics, I’m focused on finding the best opportunities to match my skills and career goals. To guide my search, this project delves into Data Analytics job market data, leveraging **PostgreSQL** to examine how factors such as **location**, **roles**, and **skills** impact earnings. Within this project, I provide actionable insights all aimed at improving my personal search for Data Analytics job opportunities.
 
 ---  
 
