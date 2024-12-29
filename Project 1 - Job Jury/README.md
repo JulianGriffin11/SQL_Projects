@@ -20,9 +20,9 @@ As I navigate the competitive field of Data Analytics, I’m focused on finding 
 ### 📊 **Job Insights**
 
 1. **Top Paying Data Analyst Jobs**: Identifies the highest paying job roles within Data Analytics, highlighting where you can expect to earn the most.  
-2. **Skills for Top-Paying Jobs**: Explores the key skills required for Data Analytics roles, giving you a clear picture of what employers are looking for.  
+2. **Skills for Top-Paying Jobs**: Explores the key skills required for maximizing salary in Data Analytics roles, giving me a clear picture of what employers at the top level are looking for.  
 3. **Most In-Demand SKills**: Focuses on the most in-demand skills for Data Analysts, showing the skills that are currently trending in the job market.  
-4. **Skills with Higher Salaries**: Analyzes which skills are both high-paying and highly sought-after, allowing you to prioritize skills that can boost your salary.  
+4. **Skills with Higher Salaries**: Analyzes which skills are both high-paying and highly sought-after, allowing point out and then prioritize the skills that can best boost my salary.  
 5. **Optimal SKills for Job Market Value**: Combines demand and salary data to reveal the most optimal skills to learn for career growth and financial gain in Data Analytics.  
 
 
