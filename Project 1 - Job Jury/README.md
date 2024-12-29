@@ -8,7 +8,7 @@ As I navigate the competitive field of Data Analytics, I’m focused on finding 
 
 ---  
 
-### 🔍 **What’s Included:**  
+### 🔍 **Questions to Analyze:**  
 - **💰 Query 1**: What are the top paying jobs for Data Analytics?  
 - **💼 Query 2**: What are the skills required for Data Analytics?  
 - **📈 Query 3**: What are the most in-demand skills for Data Analytics?  
@@ -49,7 +49,7 @@ Click [here](./project_sql) to explore the **Job Jury** files in more detail.
 ---
 
 - Check out some of my other work:  
-  - [📊 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
+  - [📊 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)  
   - [📘 R Projects](https://github.com/JulianGriffin11/R_Projects)
 
 Talk soon,  
