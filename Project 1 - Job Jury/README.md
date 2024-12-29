@@ -17,7 +17,7 @@ This project explores job salary data, using **SQL queries** to analyze how fact
 
 ---  
 
-### 📊 **Insights**
+### 📊 **Job Insights**
 
 1. **Top Paying Data Analyst Jobs**: Identifies the highest paying job roles within Data Analytics, highlighting where you can expect to earn the most.  
 2. **Skills for Top-Paying Jobs**: Explores the key skills required for Data Analytics roles, giving you a clear picture of what employers are looking for.  
