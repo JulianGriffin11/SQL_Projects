@@ -4,7 +4,7 @@ This project features five key SQL queries, each designed to uncover valuable in
 
 ---
 
-## 💰 **Query 1: What are the top PAYING Data Analyst jobs?**
+## 1️⃣ **Query: What are the top PAYING Data Analyst jobs?**
 
 ### 📊 **Analysis:**
 This query focuses on identifying the highest-paying Data Analyst roles across Canada and the United States, providing an overview of the top employers and job locations.
@@ -26,7 +26,7 @@ This query focuses on identifying the highest-paying Data Analyst roles across C
 
 ---
 
-## 🧰 **Query 2: What SKILLS are required for the top-paying Data Analyst jobs?**
+## 2️⃣ **Query: What SKILLS are required for the top-paying Data Analyst jobs?**
 
 ### 📊 **Analysis:**
 This query identifies the most common skills among the top 10 highest-paying Data Analyst positions, providing insights into the technical proficiencies valued by high-paying employers.
@@ -37,7 +37,28 @@ This query identifies the most common skills among the top 10 highest-paying Dat
 - **Aggregation**: Counted occurrences of each skill in the top-paying job listings.
 
 ### 📈 **Visual Insights:**
-> *(Placeholder for bar chart: Top Skills in High-Paying Data Analyst Roles)*
+> *Example CTE code*
+```sql
+WITH top_paying_jobs AS (
+    SELECT
+        job_id,
+        job_title,
+        salary_year_avg,
+        name AS company_name
+    FROM
+        job_postings_fact
+
+    LEFT JOIN company_dim ON job_postings_fact.company_id = company_dim.company_id
+
+    WHERE
+        job_title_short = 'Data Analyst' AND
+        job_country IN ('Canada', 'United States') AND
+        salary_year_avg IS NOT NULL
+    ORDER BY
+        salary_year_avg DESC
+    LIMIT 10
+)
+```
 
 ### 🔑 **Key Findings:**
 1. **Top Skills by Frequency**:
@@ -48,7 +69,7 @@ This query identifies the most common skills among the top 10 highest-paying Dat
 
 ---
 
-## 📈 **Query 3: What are the most in-demand SKILLS for Data Analysts?**
+## 3️⃣ **Query: What are the most in-demand SKILLS for Data Analysts?**
 
 ### 📊 **Analysis:**
 This query highlights the skills most frequently requested in job postings, offering a view of demand trends within the Data Analytics field.
@@ -78,7 +99,7 @@ This query highlights the skills most frequently requested in job postings, offe
 
 ---
 
-## 🏆 **Query 4: What are the top SKILLS based on salary?**
+## 4️⃣ **Query: What are the top SKILLS based on salary?**
 
 ### 📊 **Analysis:**
 This query identifies the skills associated with the highest average salaries, highlighting niche competencies that could lead to higher earning potential.
@@ -114,7 +135,7 @@ LIMIT 25;
 
 ---
 
-## 🌍 **Query 5: What are the most in-demand AND highest paying SKILLS (optimal) for Data Analysts?**
+## 5️⃣ **Query: What are the most in-demand AND highest paying SKILLS (optimal) for Data Analysts?**
 
 ### 📊 **Analysis:**
 This query combines both demand and salary data to uncover the skills that offer the best combination of high pay and high demand. It serves as a roadmap for prioritizing skill development.
