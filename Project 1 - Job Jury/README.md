@@ -1,4 +1,4 @@
-# 💼 **Job Jury: Analysis of Data Job Market!** 💼  
+# 👑 **Job Jury: Analysis of Data Job Market!** 👑  
 
 <img src="../Media/JJ_Soon.jpg" alt="Visual of Job Salary Analysis" width="35%" />  
 
