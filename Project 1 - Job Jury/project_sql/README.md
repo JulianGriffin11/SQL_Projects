@@ -16,13 +16,13 @@ This query focuses on identifying the highest-paying Data Analyst roles across C
   - `ROUND()` to simplify salary averages.
   - Calculated posting age in days for job relevancy.
 
+### 📈 **Visual Insights:**
+> *(Placeholder for chart: Top 10 Paying Data Analyst Roles by Salary)*
+
 ### 🔑 **Key Findings:**
 - Titles with terms like "Director" and "Senior" dominate high-paying roles.
 - Employers are primarily tech-oriented companies.
 - Posting ages indicate a mix of recent and older listings.
-
-### 📈 **Visual Insights:**
-> *(Placeholder for chart: Top 10 Paying Data Analyst Roles by Salary)*
 
 ---
 
@@ -36,15 +36,15 @@ This query identifies the most common skills among the top 10 highest-paying Dat
 - **Joins**: Combined top-paying jobs with corresponding skill data.
 - **Aggregation**: Counted occurrences of each skill in the top-paying job listings.
 
+### 📈 **Visual Insights:**
+> *(Placeholder for bar chart: Top Skills in High-Paying Data Analyst Roles)*
+
 ### 🔑 **Key Findings:**
 1. **Top Skills by Frequency**:
    - SQL (8 mentions)
    - Python (7 mentions)
    - Tableau (6 mentions)
 2. SQL and Python show the highest correlation with high salaries, emphasizing their value in this field.
-
-### 📈 **Visual Insights:**
-> *(Placeholder for bar chart: Top Skills in High-Paying Data Analyst Roles)*
 
 ---
 
@@ -60,15 +60,21 @@ This query highlights the skills most frequently requested in job postings, offe
   - `COUNT()` to tally occurrences of skills.
   - `GROUP BY` and `ORDER BY` to rank skills by demand.
 
+### 📈 **Visual Insights:**
+| **Skill**   | **Demand Count** |
+|-------------|------------------|
+| SQL         | 35,752           |
+| Excel       | 28,343           |
+| Tableau     | 19,942           |
+| Python      | 19,172           |
+| SAS         | 13,532           |
+
 ### 🔑 **Key Findings:**
 - **Most Demanded Skills**:
   1. SQL
   2. Excel
   3. Tableau
 - SQL leads demand by a large margin, underscoring its importance in the field.
-
-### 📈 **Visual Insights:**
-> *(Placeholder for pie chart: Demand Distribution of Top Skills for Data Analysts)*
 
 ---
 
@@ -82,12 +88,29 @@ This query identifies the skills associated with the highest average salaries, h
 - **Joins**: Connected job postings with their required skills.
 - **Calculations**: Used `AVG()` to compute the average salary for each skill and sorted them to rank the highest-paying ones.
 
+### 📈 **Visual Insights:**
+```sql
+SELECT
+    skills,
+    ROUND(AVG(salary_year_avg), 0) AS avg_salary
+FROM job_postings_fact
+INNER JOIN skills_job_dim ON job_postings_fact.job_id = skills_job_dim.job_id
+INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
+WHERE
+    job_title_short = 'Data Analyst' AND
+    job_country IN ('Canada', 'United States') AND
+    salary_year_avg IS NOT NULL
+GROUP BY
+    skills
+ORDER BY
+    avg_salary DESC
+LIMIT 25;
+```
+
+
 ### 🔑 **Key Findings:**
 - Skills linked to high salaries are often niche, suggesting potential outliers in the dataset.
 - Niche technical proficiencies can sometimes lead to lucrative roles but may also represent specialized positions.
-
-### 📈 **Visual Insights:**
-> *(Placeholder for bar chart: Average Salary by Skill)*
 
 ---
 
@@ -101,6 +124,20 @@ This query combines both demand and salary data to uncover the skills that offer
 - **Joins**: Merged skill mentions with corresponding demand and salary data.
 - **Calculations**: Used `COUNT()` for demand and `AVG()` for salary, sorted by both to identify the optimal skills.
 
+### 📈 **Visual Insights:**
+| Skill      | Demand Count | Average Salary |
+|------------|--------------|----------------|
+| SQL        | 2531         | 97,395         |
+| Excel      | 1821         | 87,015         |
+| Python     | 1441         | 103,284        |
+| Tableau    | 1376         | 99,465         |
+| R          | 894          | 100,290        |
+| Power BI   | 848          | 92,976         |
+| PowerPoint | 467          | 89,050         |
+| Word       | 464          | 83,811         |
+| SAS        | 463          | 94,193         |
+
+
 ### 🔑 **Key Findings:**
 1. **Top 5 Skills**:
    - SQL
@@ -110,9 +147,6 @@ This query combines both demand and salary data to uncover the skills that offer
    - R
 2. Among these, **Python** commands the highest average salary.
 3. Skills like SQL and Excel remain highly in demand, offering consistent opportunities.
-
-### 📈 **Visual Insights:**
-> *(Placeholder for dual-axis chart: Demand vs. Salary for Top Skills)*
 
 ---
 
