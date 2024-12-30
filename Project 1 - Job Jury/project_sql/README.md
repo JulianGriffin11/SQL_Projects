@@ -162,14 +162,8 @@ This query combines both demand and salary data to uncover the skills that offer
 
 
 ### 🔑 **Key Findings:**
-1. **Top 5 Skills**:
-   - SQL
-   - Excel
-   - Python
-   - Tableau
-   - R
-2. Among these, **Python** commands the highest average salary.
-3. Skills like SQL and Excel remain highly in demand, offering consistent opportunities.
+1. Among these top skills, **Python** commands the highest average salary.
+2. Skills like SQL and Excel remain highly in demand, offering consistent opportunities.
 
 ---
 
