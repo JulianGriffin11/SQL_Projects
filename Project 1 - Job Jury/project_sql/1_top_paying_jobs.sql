@@ -1,5 +1,5 @@
 /* 
-Question: What are the top paying data analyst jobs?
+Question: What are the top PAYING Data Analyst jobs?
 */
 
 SELECT
@@ -24,3 +24,9 @@ WHERE
 ORDER BY
     salary_year_avg DESC
 LIMIT 10;
+
+/*
+Key Findings:
+-Most high paying Data roles have the title of Director, Senior, etc
+-Each companies are highly tech related
+*/

@@ -1,5 +1,5 @@
 /*
-Question: What are the most in demand AND highest paying skills (optimal) for data analysts?
+Question: What are the most in demand AND highest paying SKILLS (optimal) for Data Analysts?
 */
 
 WITH skills_info AS (
@@ -13,13 +13,13 @@ WITH skills_info AS (
     INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
     WHERE
         job_title_short = 'Data Analyst' AND
+        job_country IN ('Canada', 'United States') AND
         salary_year_avg IS NOT NULL
     GROUP BY
         skills_dim.skill_id
 )
 
 SELECT
-    skill_id,
     skills,
     demand_count,
     avg_salary
@@ -28,3 +28,14 @@ FROM
 ORDER BY
     demand_count DESC, avg_salary DESC
 LIMIT 25;
+
+/*
+Top 5 Skills:
+1. SQL
+2. Excel 
+3. Python 
+4. Tableu
+5. R 
+
+Of these 5 skills, Python pays the most (indicated through salary).
+*/

@@ -1,7 +1,6 @@
 /* 
-Question: What skills are required for the top paying data analyst jobs?
+Question: What SKILLS are required for the top paying Data Analyst jobs?
 */
-
 
 WITH top_paying_jobs AS (
     SELECT
@@ -16,7 +15,7 @@ WITH top_paying_jobs AS (
 
     WHERE
         job_title_short = 'Data Analyst' AND
-        job_location = 'Anywhere' AND
+        job_country IN ('Canada', 'United States') AND
         salary_year_avg IS NOT NULL
     ORDER BY
         salary_year_avg DESC
@@ -34,14 +33,10 @@ ORDER BY
 
 
 /*
-Key Findings:
-- Most Common Skill: SQL (appears 8 times).
-
-Top 5 Skills:
+Top 3 Skills:
 - SQL (8 mentions)
 - Python (7 mentions)
 - Tableau (6 mentions)
-- R (4 mentions)
 
-These results suggest SQL and Python are fundamental for high-paying Data Analyst roles, along with visualization tools like Tableau.
+These results suggest SQL and Python have the highest skill to payment cap (i.e. these skills pay the most)
 */
