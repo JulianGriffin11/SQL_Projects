@@ -1,8 +1,14 @@
 # 🛠️ **SQL Queries for Data Analytics Job Insights**
 
+---
+
+## 🚀 **Background**
+
 What follows are 5 key SQL queries, each designed to uncover valuable insights into the Data Analytics job market.  
 
 Below, you'll find the methodology, results, and actionable insights for each query, complete with visual placeholders to enhance readability and comprehension.
+
+Click on each header to explore each SQL code further!
 
 ---
 
@@ -180,4 +186,7 @@ By combining data-driven insights with clear visualization, this project demonst
 ---
 
 ### 🔗 **Explore the Queries**
-For full SQL code, detailed comments, and execution steps, check the respective query files in this directory.
+For full SQL code, detailed comments, and execution steps, click the header links or check the respective query files in this directory!
+
+Yours in Solutions,  
+Julian
