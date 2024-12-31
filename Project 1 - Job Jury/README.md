@@ -10,8 +10,8 @@ As I navigate the competitive field of Data Analytics, I’m focused on finding 
 
 ### 📊 **Table Of Contents**
 
-1.  [**SQL Code and In-Depth Analysis**](./project_sql)
-2.  [**Database Creation**](./sql_load)
+1.  [**SQL Code and In-Depth Analysis**](./SQL_Queries)
+2.  [**Database Creation**](./SQL_Database)
 3.  [**Back to Projects Directory**](../README.md)
 
    
@@ -42,7 +42,7 @@ Following my analysis, I conclude that mastering SQL, Excel, and Python is not j
 
 ### 📂 Access the Project  
 
-Click [here](./project_sql) to explore the **Job Jury** SQL Queries in more detail.
+Click [here](./SQL_Queries) to explore the **Job Jury** SQL Queries in more detail.
 
 ---
 
