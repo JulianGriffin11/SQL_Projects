@@ -2,11 +2,11 @@
 
 ---
 
-## 🚀 **Background**
+## 🚀 **Foreword**
 
-What follows are 5 key SQL queries, each designed to uncover valuable insights into the Data Analytics job market.  
+- What follows are 5 key SQL queries, each designed to uncover valuable insights into the Data Analytics job market.  
 
-Below, you'll find the methodology, results, and actionable insights for each query, complete with visual placeholders to enhance readability and comprehension.
+- Below, you'll find the methodology, results, and actionable insights for each query, complete with visual placeholders to enhance readability and comprehension.
 
 Click on each header to explore each SQL code further!
 
