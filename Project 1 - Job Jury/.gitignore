@@ -1,6 +1,5 @@
 # Ignore csv_files folder as it's contents are too large for pushing
 /csv_files
-/sql_load
 
 # Ignore other files
 /.DS_Store
