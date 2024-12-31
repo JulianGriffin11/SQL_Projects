@@ -12,7 +12,7 @@ As I navigate the competitive field of Data Analytics, I’m focused on finding 
 
 1.  [**SQL Code and In-Depth Analysis**](./project_sql)
 2.  [**Database Creation**](./sql_load)
-3.  [**Projects Directory**](../README.md)
+3.  [**Back to Projects Directory**](../README.md)
 
    
 ---  
@@ -36,13 +36,13 @@ As I navigate the competitive field of Data Analytics, I’m focused on finding 
 
 ## Conclusion  
 
-In today’s data-driven world, mastering SQL, Excel, and Python is not just a choice—it’s a strategic move to boost your career. These skills are in high demand across industries, with SQL driving data manipulation and queries, Excel enabling powerful data analysis and reporting, and Python offering flexibility in automation and advanced analytics. Together, they form a powerful toolkit that will not only elevate your technical proficiency but also open doors to higher-paying roles and better career opportunities. By honing these skills, you're positioning yourself to meet the growing demand for data expertise and maximize your earning potential.
+Following my analysis, I conclude that mastering SQL, Excel, and Python is not just a choice — it’s a strategic move to boost my career. These skills are in high demand across industries, with SQL driving data manipulation and queries, Excel enabling powerful data analysis and reporting, and Python offering flexibility in automation and advanced analytics. Together, they form a powerful toolkit that will elevate my technical proficiency within the competitive Data Analytics field!
 
 ---
 
 ### 📂 Access the Project  
 
-Click [here](./project_sql) to explore the **Job Jury** files in more detail.
+Click [here](./project_sql) to explore the **Job Jury** SQL Queries in more detail.
 
 ---
 
