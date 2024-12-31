@@ -19,7 +19,7 @@ This space showcases my personal **SQL-based data analysis** skills. Use the **l
 
 <br>
 
-<img src="./Media/JJ_Project.gif" alt="Visual of Employee Database Query" width="60%" />
+<img src="./Media/JJ_Chart.png" alt="Visual of Employee Database Query" width="80%" />
 
 ---
 
