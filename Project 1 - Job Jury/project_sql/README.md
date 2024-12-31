@@ -27,7 +27,11 @@ This query focuses on identifying the highest-paying Data Analyst roles across C
   - Calculated posting age in days for job relevancy.
 
 ### 📈 **Visual Insights:**
-> *(Placeholder for chart: Top 10 Paying Data Analyst Roles by Salary)*
+
+> *(Output Chart: Top 10 Paying Data Analyst Roles by Salary)*
+
+<img src="../../Media/JJ_Chart.png" alt="Visual of Employee Database Query" width="80%" />
+
 
 ### 🔑 **Key Findings:**
 - Titles with terms like "Director" and "Senior" dominate high-paying roles.
@@ -47,7 +51,7 @@ This query identifies the most common skills among the top 10 highest-paying Dat
 - **Aggregation**: Counted occurrences of each skill in the top-paying job listings.
 
 ### 📈 **Visual Insights:**
-> *Example CTE code*
+> *Example CTE code (PostgreSQL)*
 ```sql
 WITH top_paying_jobs AS (
     SELECT
@@ -92,6 +96,8 @@ This query highlights the skills most frequently requested in job postings, offe
   - `GROUP BY` and `ORDER BY` to rank skills by demand.
 
 ### 📈 **Visual Insights:**
+> *(Table 1: Demand of Each Skill)*
+
 | **Skill**   | **Demand Count** |
 |-------------|------------------|
 | SQL         | 35,752           |
@@ -120,6 +126,7 @@ This query identifies the skills associated with the highest average salaries, h
 - **Calculations**: Used `AVG()` to compute the average salary for each skill and sorted them to rank the highest-paying ones.
 
 ### 📈 **Visual Insights:**
+> *Example of Join code (PostgreSQL)*
 ```sql
 SELECT
     skills,
@@ -156,6 +163,8 @@ This query combines both demand and salary data to uncover the skills that offer
 - **Calculations**: Used `COUNT()` for demand and `AVG()` for salary, sorted by both to identify the optimal skills.
 
 ### 📈 **Visual Insights:**
+> *(Table 2: Demand and Related Salary of Each Skill)*
+
 | Skill      | Demand Count | Average Salary |
 |------------|--------------|----------------|
 | SQL        | 2531         | 97,395         |
