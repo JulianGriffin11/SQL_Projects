@@ -2,7 +2,7 @@
 
 This folder contains the **CSV files** generated as outputs from the 5 key SQL queries in the **Job Jury** project. These files offer a snapshot of the data insights uncovered during the analysis. 
 
-Below is a quick summary of what each file represents. For detailed explanations and methodology, click here navigate to the **Query Analysis** section of the repository!
+Below is a quick summary of what each file represents. For detailed explanations and methodology, [**click here**](./SQL_Queries) to navigate to the **Query Analysis** section of the repository!
 
 ---
 
