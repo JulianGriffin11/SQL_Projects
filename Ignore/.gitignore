@@ -2,7 +2,6 @@
 /Project 1 - Job Jury/csv_files/
 
 # Ignore other files
-/.DS_Store
-/.vscode
-.DS_Store
-.vscode
+/.DS_Store/
+/.vscode/
+
