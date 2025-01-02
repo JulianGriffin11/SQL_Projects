@@ -37,7 +37,7 @@ Below is a quick summary of what each file represents. For detailed explanations
 ---
 
 ## 🔍 **Want More Context?**
-For a deeper dive into these outputs, including SQL code, analysis, and visual insights, check out the **Query Analysis** folder in the repository. 📊
+For a deeper dive into these outputs, including SQL code, analysis, and visual insights, check out the [**Query Analysis**](./SQL_Queries)  folder in the repository. 📊
 
 Stay curious and keep exploring,  
 **Julian Griffin**
