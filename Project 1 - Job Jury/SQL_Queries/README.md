@@ -185,7 +185,7 @@ This query combines both demand and salary data to uncover the skills that offer
 ---
 
 ### 📝 **Next Steps**
-To improve this repository:
+Towards improving the project:
 - Create visualizations generated from query outputs.
 - Incorporate interactive charts or dashboards for easy access of information.
 - Expand analysis to include geographical trends.
