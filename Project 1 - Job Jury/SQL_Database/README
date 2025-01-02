@@ -1,1 +1,12 @@
+# **SQL Database Project: Job Jury** 📊💼
+
+Welcome to the **Job Jury** database! This project involves a few essential SQL scripts for creating and managing a database focused on job postings, companies, and required skills. Below is a summary of the key files involved:
+
+---
+
+## **1. Database Creation** 📂
+
+```sql
+CREATE DATABASE sql_course;
+-- DROP DATABASE IF EXISTS sql_course;
 
