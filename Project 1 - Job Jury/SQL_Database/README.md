@@ -1,4 +1,4 @@
-# **SQL Database Management of Job Jury** 📊
+# 🛠️ **SQL Database Management of Job Jury** 📊
 
 Welcome to the **Job Jury** database management project! 🚀   
 
