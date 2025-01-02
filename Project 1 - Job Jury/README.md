@@ -10,9 +10,9 @@ As I navigate the competitive field of Data Analytics, I’m focused on finding 
 
 ### 📊 **Table Of Contents**
 
-1.  [**SQL Code and In-Depth Analysis**](./SQL_Queries)
-2.  [**Database Creation**](./SQL_Database)
-3.  [**Back to Projects Directory**](../README.md)
+1.  [**SQL Queries and Analysis**](./SQL_Queries)
+2.  [**Database Management**](./SQL_Database)
+3.  [**Return to Projects**](../README.md)
 
    
 ---  
