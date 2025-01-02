@@ -76,9 +76,9 @@ WITH top_paying_jobs AS (
 
 ### 🔑 **Key Findings:**
 1. **Top Skills by Frequency**:
-   - SQL (8 mentions)
-   - Python (7 mentions)
-   - Tableau (6 mentions)
+   1. SQL (8 mentions)
+   2.  Python (7 mentions)
+   3. Tableau (6 mentions)
 2. SQL and Python show the highest correlation with high salaries, emphasizing their value in this field.
 
 ---
