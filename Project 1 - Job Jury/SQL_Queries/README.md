@@ -8,7 +8,7 @@
 
 - Below, you'll find the methodology, results, and actionable insights for each query, complete with visual placeholders to enhance readability and comprehension.
 
-Click on each header to explore each SQL code further!
+Click on the respective headers to explore each SQL code further!
 
 ---
 
