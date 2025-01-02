@@ -186,11 +186,11 @@ This query combines both demand and salary data to uncover the skills that offer
 
 ### 📝 **Next Steps**
 To improve this repository:
-- Replace placeholders with visualizations generated from query outputs.
-- Incorporate interactive charts or dashboards if feasible.
-- Expand analysis to include trends over time or geographical patterns.
+- Create visualizations generated from query outputs.
+- Incorporate interactive charts or dashboards for easy access of information.
+- Expand analysis to include geographical trends.
 
-By combining data-driven insights with clear visualization, this project demonstrates a strong understanding of SQL querying and its application in the Data Analytics domain.
+I will achieve through the use of visualization tools like Excel. Stay tuned!
 
 ---
 
