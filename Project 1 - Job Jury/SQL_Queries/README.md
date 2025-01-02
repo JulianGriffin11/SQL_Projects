@@ -51,7 +51,7 @@ This query identifies the most common skills among the top 10 highest-paying Dat
 - **Aggregation**: Counted occurrences of each skill in the top-paying job listings.
 
 ### 📈 **Visual Insights:**
-> *Example CTE code (PostgreSQL)*
+> *Example use of CTEs within query (PostgreSQL)*
 ```sql
 WITH top_paying_jobs AS (
     SELECT
@@ -126,7 +126,7 @@ This query identifies the skills associated with the highest average salaries, h
 - **Calculations**: Used `AVG()` to compute the average salary for each skill and sorted them to rank the highest-paying ones.
 
 ### 📈 **Visual Insights:**
-> *Example of Join code (PostgreSQL)*
+> *Example use case of JOIN function within query (PostgreSQL)*
 ```sql
 SELECT
     skills,
