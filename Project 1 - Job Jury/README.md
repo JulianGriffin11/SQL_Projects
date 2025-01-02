@@ -12,7 +12,7 @@ The project foundation was built using a tutorial by **Luke Barousse**, who also
 
 ### 📊 **Table Of Contents**
 
-1.  [**Query Analysis**](./SQL_Queries) (recommended)
+1.  [**Query Analysis**](./SQL_Queries) *(recommended)*
 2.  [**Query Output**](./SQL_Output)
 3.  [**Database Management**](./SQL_Database)
 4.  [**Return to Projects**](../README.md)
