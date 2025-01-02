@@ -22,4 +22,15 @@ Welcome to the **Job Jury** database project! Below is a summary of the key comp
 
 ---
 
-### **Happy exploring!** 🎉
+### 📂 Access the Project Queries!
+
+Click [here](./SQL_Queries) to explore the **Job Jury** SQL Queries in more detail.
+
+---
+
+- Check out some of my other work:  
+  - [📊 Excel Projects](https://github.com/JulianGriffin11/Excel_Projects)  
+  - [📘 R Projects](https://github.com/JulianGriffin11/R_Projects)
+
+Talk soon,  
+**Julian Griffin**
