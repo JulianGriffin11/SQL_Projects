@@ -1,0 +1,44 @@
+job_id,job_title,salary_year_avg,company_name,skills
+1110602,"HC Data Analyst , Senior",375000,Illuminate Mission Solutions,python
+1110602,"HC Data Analyst , Senior",375000,Illuminate Mission Solutions,r
+1110602,"HC Data Analyst , Senior",375000,Illuminate Mission Solutions,vba
+1110602,"HC Data Analyst , Senior",375000,Illuminate Mission Solutions,excel
+1110602,"HC Data Analyst , Senior",375000,Illuminate Mission Solutions,tableau
+229253,Director of Safety Data Analysis,375000,Torc Robotics,sql
+229253,Director of Safety Data Analysis,375000,Torc Robotics,python
+229253,Director of Safety Data Analysis,375000,Torc Robotics,r
+229253,Director of Safety Data Analysis,375000,Torc Robotics,sas
+229253,Director of Safety Data Analysis,375000,Torc Robotics,matlab
+229253,Director of Safety Data Analysis,375000,Torc Robotics,spark
+229253,Director of Safety Data Analysis,375000,Torc Robotics,airflow
+229253,Director of Safety Data Analysis,375000,Torc Robotics,excel
+229253,Director of Safety Data Analysis,375000,Torc Robotics,tableau
+229253,Director of Safety Data Analysis,375000,Torc Robotics,power bi
+229253,Director of Safety Data Analysis,375000,Torc Robotics,sas
+641501,Head of Infrastructure Management & Data Analytics - Financial...,375000,"Citigroup, Inc",excel
+641501,Head of Infrastructure Management & Data Analytics - Financial...,375000,"Citigroup, Inc",word
+1059665,Data Analyst,350000,Anthropic,sql
+1059665,Data Analyst,350000,Anthropic,python
+101757,Head of Data Analytics,350000,Care.com,sql
+101757,Head of Data Analytics,350000,Care.com,python
+101757,Head of Data Analytics,350000,Care.com,r
+101757,Head of Data Analytics,350000,Care.com,bigquery
+101757,Head of Data Analytics,350000,Care.com,snowflake
+101757,Head of Data Analytics,350000,Care.com,tableau
+101757,Head of Data Analytics,350000,Care.com,power bi
+101757,Head of Data Analytics,350000,Care.com,looker
+894135,Research Scientist,285000,OpenAI,github
+552322,Associate Director- Data Insights,255829.5,AT&T,sql
+552322,Associate Director- Data Insights,255829.5,AT&T,python
+552322,Associate Director- Data Insights,255829.5,AT&T,r
+552322,Associate Director- Data Insights,255829.5,AT&T,azure
+552322,Associate Director- Data Insights,255829.5,AT&T,databricks
+552322,Associate Director- Data Insights,255829.5,AT&T,aws
+552322,Associate Director- Data Insights,255829.5,AT&T,pandas
+552322,Associate Director- Data Insights,255829.5,AT&T,pyspark
+552322,Associate Director- Data Insights,255829.5,AT&T,jupyter
+552322,Associate Director- Data Insights,255829.5,AT&T,excel
+552322,Associate Director- Data Insights,255829.5,AT&T,tableau
+552322,Associate Director- Data Insights,255829.5,AT&T,power bi
+552322,Associate Director- Data Insights,255829.5,AT&T,powerpoint
+285766,"Partner Technology Manager, Data Analytics and AI",254000,Google,gcp
