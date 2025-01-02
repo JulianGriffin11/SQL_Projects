@@ -1,4 +1,4 @@
-# 🛠️ **SQL Queries for Data Analytics Job Insights**
+# 🛠️ **SQL Queries and Analysis for Data Analyst Jobs**
 
 ---
 
