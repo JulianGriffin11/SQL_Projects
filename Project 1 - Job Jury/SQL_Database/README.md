@@ -25,7 +25,7 @@ These SQL files set up and manage **Luke Barousse's** job posting database, enab
 ---
 
 ### 📂 **Access the Project Queries!**
-Click [here](./SQL_Queries) to explore the **Job Jury** SQL Queries in more detail.
+Click [here](../SQL_Queries) to explore the **Job Jury** SQL Queries in more detail.
 
 ---
 
