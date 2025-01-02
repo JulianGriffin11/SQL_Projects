@@ -9,31 +9,31 @@ Feel free to download and explore each .csv file!
 ---
 
 ## 1️⃣ **Top Paying Data Analyst Jobs** 💼
-- **File Name**: `top_paying_jobs.csv`  
+- **File Name**: `1_top_paying_jobs.csv`  
 - **Summary**: Unveils the **highest-paying Data Analyst roles** across employers, locations, and salaries.  
 
 ---
 
 ## 2️⃣ **Top-Paying Job Skills** 🛠️
-- **File Name**: `top_paying_job_skills.csv`  
+- **File Name**: `2_top_paying_job_skills.csv`  
 - **Summary**: Highlights the **most common skills** required for the top-paying Data Analyst positions.  
 
 ---
 
 ## 3️⃣ **Most In-Demand Skills** 🔥
-- **File Name**: `top_demanded_skills.csv`  
+- **File Name**: `3_top_demanded_skills.csv`  
 - **Summary**: Spotlights the skills most frequently requested in job postings, revealing demand trends.  
 
 ---
 
 ## 4️⃣ **Top Skills by Salary** 💰
-- **File Name**: `top_paying_skills.csv`  
+- **File Name**: `4_top_paying_skills.csv`  
 - **Summary**: Features skills linked to the **highest average salaries** in the field.  
 
 ---
 
 ## 5️⃣ **Optimal Skills: High Pay & Demand** 🎯
-- **File Name**: `optimal_skills.csv`  
+- **File Name**: `5_optimal_skills.csv`  
 - **Summary**: Combines **demand and salary data** to pinpoint the most valuable skills for Data Analysts.  
 
 ---
