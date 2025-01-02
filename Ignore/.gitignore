@@ -1,5 +1,5 @@
 # Ignore csv_files folder in Project 1 - Job Jury
-/Project 1 - Job Jury/csv_files/
+/Project 1 - Job Jury/csv_files
 
 # Ignore other files
 /.DS_Store
