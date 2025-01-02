@@ -39,7 +39,7 @@ Feel free to download and explore each .csv file!
 ---
 
 ## 🔍 **Want More Context?**  
-For a comprehensive breakdown, including **SQL methodologies**, **visualizations**, and actionable insights, dive into the [**Query Analysis**](./SQL_Queries) folder! 📊  
+For a comprehensive breakdown, including **SQL methodologies**, **visualizations**, and actionable insights, dive into the [**Query Analysis**](../SQL_Queries) folder! 📊  
 
 Stay curious and keep exploring,  
 **Julian Griffin** 🌟
