@@ -6,7 +6,7 @@
 
 As I navigate the competitive field of Data Analytics, I’m focused on finding the best opportunities to match my skills and career goals. To guide my search, this project delves into Data Analytics job market data, leveraging **PostgreSQL** to examine how factors such as **location**, **roles**, and **skills** impact earnings. 
 
-The project foundation was built using a tutorial by **Luke Larousse**, who also provided the dataset. However, all interpretations and analyses presented here are entirely my own. Within this project, I provide actionable insights aimed at improving my personal search for Data Analytics job opportunities.
+The project foundation was built using a tutorial by **Luke Barousse**, who also provided the dataset. However, all interpretations and analyses presented here are entirely my own. Within this project, I provide actionable insights aimed at improving my personal search for Data Analytics job opportunities.
 
 ---  
 
